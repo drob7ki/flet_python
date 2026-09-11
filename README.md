@@ -1,4 +1,11 @@
-<img width="1890" height="975" alt="atv4" src="https://github.com/user-attachments/assets/912035c5-c595-4abe-9f64-a1c7ad4b22c7" />
-<img width="1884" height="973" alt="atv3" src="https://github.com/user-attachments/assets/03be5e85-8356-40fc-84b1-eb380f7d119b" />
-<img width="1729" height="969" alt="atv2" src="https://github.com/user-attachments/assets/4b3ffbf0-eaee-453b-a7d8-e9b9c7dec793" />
-<img width="1080" height="944" alt="atv1" src="https://github.com/user-attachments/assets/93fa666e-dce3-4e54-9182-048a3207bce8" />
+tela 1
+<img width="1890" height="975" alt="atv4" src="https://github.com/user-attachments/assets/142cdc4a-7d7b-49be-b7e3-918b0879976d" />
+
+tela 2
+<img width="1884" height="973" alt="atv3" src="https://github.com/user-attachments/assets/b06d620d-505b-45e9-a43e-652b4b5d5e69" />
+
+tela 3
+<img width="1729" height="969" alt="atv2" src="https://github.com/user-attachments/assets/1fc38626-3011-43ed-b712-509c961e8c3a" />
+
+tela 4
+<img width="1080" height="944" alt="atv1" src="https://github.com/user-attachments/assets/341f472c-091b-4f29-91d6-3b2ac8cd5522" />
